@@ -1,6 +1,6 @@
 # myprojectmanager
 
-A new Flutter project.
+An app to help users to manage thier projects with their friends.
 
 ## Getting Started
 
